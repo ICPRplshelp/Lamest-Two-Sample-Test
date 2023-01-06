@@ -11,4 +11,4 @@ from a row directly.
 
 To be clear: null hypothesis is that the means of the two samples are the same; the alternative hypothesis is that they
 aren't.
-The alternative hypothesis is true when the p-value is lower than 0.05.
+The alternative hypothesis is true when the p-value is lower than 0.05, at least by convention.
